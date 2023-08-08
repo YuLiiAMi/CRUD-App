@@ -7,9 +7,9 @@ body {
 }
 
 .has-error input {
-	border-color: #dc3545;
+	border-color: #e21429;
 }
 
 .has-error small {
-	color: #dc3545;
+	color: #e21429;
 }
