@@ -1,0 +1,15 @@
+*{
+	color: #fff;
+}
+
+body {
+	background: #1d2630;
+}
+
+.has-error input {
+	border-color: #dc3545;
+}
+
+.has-error small {
+	color: #dc3545;
+}
